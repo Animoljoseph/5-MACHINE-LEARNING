@@ -1,4 +1,4 @@
-# 5-MACHINE-LEARNINGEntry_Module-5_Machine-Learning
+# 5-MACHINE-LEARNINGEntry
 Loading and Preprocessing Insights
 Data Cleaning: Removing or imputing missing values is essential for ensuring model reliability. Dropping rows can lead to information loss, so imputing with mean/median (for numerical) or mode (for categorical) may be better for large datasets. Categorical Encoding: Encoding is necessary to convert non-numeric data into a format that can be understood by machine learning models. Label encoding is simple but may introduce ordinal relationships; One-Hot encoding could be more suitable if no ordinal relation exists.
 
